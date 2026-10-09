@@ -1,0 +1,16 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+kafka/
+kafka_*/
+*.tgz
+*.tar.gz
+kafka-logs/
+data/zookeeper/
+data/
+logs/
+*.log
+.DS_Store
+.vscode/
